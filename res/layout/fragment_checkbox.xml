@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/white" >
+    
+	<CheckBox
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_centerInParent="true"
+	    android:text="Canon"
+	    android:id="@+id/fragment_checkbox_checkbox1" />
+	
+	<CheckBox
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_centerHorizontal="true"
+	    android:text="Nikon"
+	    android:layout_below="@id/fragment_checkbox_checkbox1"
+	    android:id="@+id/fragment_checkbox_checkbox2" />
+    
+</RelativeLayout>

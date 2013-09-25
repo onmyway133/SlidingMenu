@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_items">
+        <item >Main</item>
+        <item >Button</item>
+        <item >CheckBox</item>
+        <item >EditText</item>
+        <item >ImageView</item>
+        <item >ListView</item>
+        <item >RadioButton</item>
+        <item >TextView</item>
+        <item >ToggleButton</item>
+        <item >WebView</item>
+        <item >Dummy 1</item>
+        <item >Dummy 2</item>
+        <item >Dummy 3</item>
+        <item >Dummy 4</item>
+        <item >Dummy 5</item>
+        <item >Dummy 6</item>
+    </string-array>
+</resources>
